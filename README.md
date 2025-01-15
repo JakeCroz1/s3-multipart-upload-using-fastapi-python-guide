@@ -212,7 +212,7 @@ Its main responsibilities include:
     - Given that you cloned this repository, run the following Git Bash prompt:
 
         ```
-        cd 's3 multipart upload using fastapi python guide'/back-end/lambda_layer
+        cd s3-multipart-upload-using-fastapi-python-guide/back-end/lambda_layer
         ```
         ```
         ./create_lambda_layer.sh
